@@ -1,0 +1,17 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let message = "Talha Ahmed";
+console.log(message);
+let age = 24;
+console.log(age);
+let isMarried = false;
+console.log(isMarried);
+let num1 = 4;
+let num2 = 1;
+console.log(num1 - num2);
+let num3 = 5;
+let num4 = 4;
+console.log(num3 / num4);
+let num5 = 10;
+let num6 = 20;
+console.log(num5 * num6);
